@@ -1,4 +1,4 @@
-This repository contains structured solutions to Striver's DSA Sheet in JavaScript. It helps in improving problem-solving skills and preparing for FAANG/MNC interviews.
+This repository contains structured solutions to Striver's DSA Sheet in JavaScript. 
 
 📌 Why this repo?
 ✔️ Well-structured solutions for Striver’s Sheet
